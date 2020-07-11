@@ -3,7 +3,7 @@ Git ve github kullanımı
 
 
 
-##Git
+## Git
 
 <p>Versiyon kontrolü bir dizin içindeki tüm değişikliklerin takip edilmesidir. Git ise tüm bu değişikliklerin tarihçesini ve içeriğini tutan sistemlerden biridir.<br>
    Alternatif :Mercurial,Subversion... <br><br>
@@ -16,7 +16,7 @@ Git ve github kullanımı
 
 
 
-##Neden git kullanırız ?
+## Neden git kullanırız ?
 
 <p>
     Örneğin bir proje üzerinde çalıştığımızı düşünelim. Projeye yeni bir özellik eklemeden önce projenin çalışan halinin yedeğini almak isteriz.
