@@ -20,7 +20,7 @@ Git ve github kullanımı
 
 <p>
     Örneğin bir proje üzerinde çalıştığımızı düşünelim. Projeye yeni bir özellik eklemeden önce projenin çalışan halinin yedeğini almak isteriz.
-    Çünkü yeni eklenen özelliğin mevcut yapıyı bozmasını istemeyiz. Bu şekilde projenin herhangi bir anında alınan yedeğe  versiyon denir.<br>
+    Çünkü yeni eklenen özelliğin mevcut yapıyı bozmasını istemeyiz. Bu şekilde projenin herhangi bir anında alınan yedeğne versiyon denir.<br>
     Eğer versiyonlama işlemini manuel olarak yaparsak : <br>
    
     -Elimizde sadece projenin bir çok kopyası olur. 
@@ -36,20 +36,20 @@ Git ve github kullanımı
     
 </p>
 
-<p>
+<p><br>
    
 ## Verisyon kontrol sistemi türleri
 
-Iki tür versiyon kontrol sistemi vardır. <br>
+İki tür versiyon kontrol sistemi vardır. <br>
 
-* Merkezi kontrol sistemi : Tüm geşiştiriciler doğrudan bir merkezi sunucuya bağlıdır.<br>
+* Merkezi kontrol sistemi : Tüm geliştiriciler doğrudan bir merkezi sunucuya bağlıdır.<br>
 * Dağıtık kontrol sistemi : Tüm geliştiricilerin local sunucuları vardır. Bu local sunucular ise merkezi suncuya bağlıdır.<br>
 
-Not : Git dağıtık versiyon kontrol sistemidir.
+Not : Git dağıtık versiyon kontrol sistemidir. <br><br>
 
 ![image not found](/Images/CentralizedVcs.png "Cenralized version control system") <br><br>
 
-![image not found](/Images/DistributedVcs.png "Cenralized version control system")
+![image not found](/Images/DistributedVcs.png "Distributed version control system")
 <p/>
 
 <p>to be continued...</p>
