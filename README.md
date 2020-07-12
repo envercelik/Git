@@ -42,12 +42,14 @@ Git ve github kullanımı
 
 Iki tür versiyon kontrol sistemi vardır. <br>
 
-*Merkezi kontrol sistemi : Tüm geşiştiriciler doğrudan bir merkezi sunucuya bağlıdır.<br>
-*Dağıtık kontrol sistemi : Tüm geliştiricilerin local sunucuları vardır. Bu local sunucular ise merkezi suncuya bağlıdır.<br>
+* Merkezi kontrol sistemi : Tüm geşiştiriciler doğrudan bir merkezi sunucuya bağlıdır.<br>
+* Dağıtık kontrol sistemi : Tüm geliştiricilerin local sunucuları vardır. Bu local sunucular ise merkezi suncuya bağlıdır.<br>
 
-![image not found](/Images/CenralizedVcs.png "Cenralized version control system") <br><br>
+Not : Git dağıtık versiyon kontrol sistemidir.
 
-![image not found](/Images/CenralizedVcs.png "Cenralized version control system")
+![image not found](/Images/CentralizedVcs.png "Cenralized version control system") <br><br>
+
+![image not found](/Images/DistributedVcs.png "Cenralized version control system")
 <p/>
 
 <p>to be continued...</p>
